@@ -1,3 +1,3 @@
-export const dummyDemo = ()=>{
-    return "Why are you gay"
-}
+export const dummyDemo = () => {
+  return 'Why are you ghey';
+};
