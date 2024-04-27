@@ -1,1 +1,3 @@
-export const myPackage = (taco = ''): string => `${taco} from my package`;
+export const dummyDemo = ()=>{
+    return "Why are you gay"
+}
